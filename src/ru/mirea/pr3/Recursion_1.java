@@ -20,6 +20,6 @@ public class Recursion_1
     }
 
     public static void main(String[] args) {
-        System.out.print(recursion(7));
+        recursion(5);
     }
 }
